@@ -1,28 +1,25 @@
-# Hi there, I'm Oliver! 👋
+# Oliver Richard Lundstrøm
 
-I'm an **AI Engineering Student** and **Tech Entrepreneur** based in Denmark, passionate about bridging the gap between complex machine learning systems and intuitive user experiences.
+AI engineering student at Aalborg University and co-founder of [KostPilot](https://kost-pilot.dk).
 
-### 🚀 What I'm working on
-- **Kostpilot:** Co-founder and Technical Lead. Building an ML-powered meal planning app that integrates real-time grocery deals.
-- **Academic Projects:** Developing Audio Perception AI for GN Group and energy prediction models for power grids.
-- **Hobby Projects:** Experimenting with Local LLMs, Home Servers, and Autonomous Voice Agents.
+I study Design and Application of Artificial Intelligence (B.Eng.), a project-based program focused on understanding a real problem, choosing the right AI approach and making it work in practice.
 
-### 🛠 Tech Stack
-- **AI/ML:** Python, TensorFlow, Scikit-learn, Feature Engineering.
-- **Mobile/Web:** React Native, TypeScript, Next.js, Tailwind CSS.
-- **Backend:** Supabase, PostgreSQL, API Design.
-- **Tools:** Git, Docker, Figma.
+## Now
 
-### 🧠 My Philosophy
-I believe that algorithms are only half the equation; the other half is people and society. I thrive in the intersection of deep technical architecture and human-centric design. My background in leadership from Tivoli Friheden has taught me to keep a cool head and find solutions under pressure—a trait I bring into every line of code I write.
+- **Adaptive Drone Detection** (3rd semester): a deep learning drone detector that quantifies its own uncertainty under domain shift and adapts to changing conditions.
+- **KostPilot**: a meal-planning app that builds a weekly plan around current supermarket deals, your taste and your budget.
 
-### 🏃 Beyond the Code
-When I'm not in front of a screen, you'll find me training for my first **Quarter Ironman**. I'm a big believer in mental and physical endurance—whether it's on the track or debugging complex neural networks.
+## Selected work
 
----
+- **Nordic AI Cup 2026**: competed solo across reinforcement learning, real-time computer vision and speech AI. 29th in Denmark, 67th of ~113 teams.
+- **Speech quality prediction for GN Group**: MOS prediction from 14,000+ audio files with feature engineering and stacked models. [Code](https://github.com/OliverRLundstrom/P2-GnGroup)
+- **Electricity demand forecasting**: peak-load prediction for the power grid in Tétouan, Morocco.
+- **PrimeFinder**: a self-running prime search engine contributing to GIMPS. [Code](https://github.com/OliverRLundstrom/PrimeNumberFinder)
 
-### 📬 Let's Connect
-- 🌍 [oliverlundstrøm.dk](https://oliverlundstrøm.dk)
-- 💼 [LinkedIn](https://www.linkedin.com/in/oliver-lundstrøm-9bb9252a6/)
-- 📧 [oliver.r.lundstrom@gmail.com](mailto:oliver.r.lundstrom@gmail.com)
-- Check my app: [kost-pilot.dk] (kost-pilot.dk) 
+## Stack
+
+Python, TensorFlow, scikit-learn, XGBoost · React Native, TypeScript, Next.js · Supabase, PostgreSQL · Docker, Git
+
+## Contact
+
+[oliverlundstrøm.dk](https://xn--oliverlundstrm-2qb.dk) · [LinkedIn](https://www.linkedin.com/in/oliver-richard-lundstr%C3%B8m-9bb9252a6/) · oliver.r.lundstrom@gmail.com
